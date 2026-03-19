@@ -224,3 +224,6 @@ Add skill content to your Cline system prompt, or reference the files directly i
 - **Don't skip clarification** — The technical guide architect's questions prevent rework
 - **Keep `ai_docs/` in version control** — The trace output is living documentation
 - **Reuse trace output** — Phase 4 issues feed directly into technical guide requirements
+
+
+https://claude.ai/public/artifacts/ca74314b-91d3-482e-8329-e9105058b51a
